@@ -1,4 +1,4 @@
-# Animal-Records
+# Animal Records
 
 This program prompts the user with five menu options. The menu options are primarily manipulating a vector that stores the record of animals by their type and population. These menu options allow the user to add an animal, display the animals, search the animal, display the endangered list, and end the program. Selection sort is used on the records and a binary search algorithm is used to search for animals in the record.
 
